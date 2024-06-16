@@ -18,7 +18,7 @@ This is a simple implementation of the classic Connect Four game in Python. The 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/connect-4.git
+   git clone https://github.com/Arvind-Sabarinathan/connect-4.git
    cd connect-4
    ```
 2. Run the game:
